@@ -1,0 +1,27 @@
+Anthropic buys Super Bowl ads to slap OpenAI for selling ads in ChatGPT
+By Dawn Chmielewski, Deepa Seetharaman and Max A. Cherney
+February 7, 20264:34 PM GMT+5:30Updated 21 hours ago
+
+Summary
+Rivalry highlights AI companies' public spat and market competition
+OpenAI has started to use ads on free versions of ChatGPT
+OpenAI CEO Altman calls Anthropic ad "deceptive"
+Feb 7 (Reuters) - Anthropic is spending millions of dollars to air commercials during Sunday night's National Football League championship game to slam rival OpenAI for its plan to sell ads on its ChatGPT chatbot, in one of the biggest public spats between the big artificial-intelligence companies.
+One 30-second spot expected to air on the NBC television network during Super Bowl LX from Anthropic takes a thinly veiled jab at OpenAI's intentions to introduce ads to its AI-powered chatbot, ChatGPT.
+Read about innovative ideas and the people working on solutions to global crises with the Reuters Beacon newsletter. Sign up here.
+The commercial features a scrawny twenty-something doing pull-ups in the park, and asking a muscular bystander for advice about achieving six-pack abs. The man replies in a robotic way that suggests he is a chatbot, offering to provide a personalized strength-training plan. But first, he slips in a promotion for shoe inserts that help "short kings stand tall" - prompting a puzzled response from the twenty-something.
+The punchline: "Ads are coming to AI. But not to Claude," the name of Anthropic's chatbot.
+OpenAI CEO Sam Altman was not amused, calling the Anthropic ad "deceptive" in a post on Wednesday on the social media platform X.
+“We’re not stupid," said Altman in an interview on Thursday with the TBPN podcast. "We respect our users, we understand that if we did something like what those ads depict, people will rightfully stop using our product.”
+OpenAI plans to use the Super Bowl to tout its software coding product, Codex.
+It is the first Super Bowl campaign for Anthropic's Claude. An estimated 120 million viewers are expected to tune in to watch the Seattle Seahawks play against the New England Patriots in Santa Clara, California. Mark Marshall, NBCUniversal chairman of global advertising, said the average cost to air a 30-second spot is $8 million, though a handful sold for more than $10 million.
+NBCUniversal is owned by Comcast (CMCSA.O), opens new tab.
+The Super Bowl ads are the most public display of a rivalry between the two big AI labs - neither of which is profitable - as they seek to attract consumers and compete for market share. The companies are also battling for business customers as they race to go public as early as this year, in a process that will pit them against each other for investor attention.
+Sam Singer, president of Singer Associates Public Relations, said the dispute shows that even artificial-intelligence companies cannot resist the "very human urge" to argue in public.
+"The dispute between OpenAI and Anthropic makes the Super Bowl more interesting," said Singer. "The compelling battle between two companies with two similar products (is) going to make people think about Claude or ChatGPT, and that will benefit both parties."
+Ad industry experts said Anthropic and OpenAI can take advantage of the biggest television audience of the year to counter negative perceptions of artificial intelligence, and help consumers feel more comfortable using chatbots.
+"It is about finding the right tone," said Sean Wright, chief insights and analytics officer at the ad-tracking firm Guideline. "Today, only 17% of U.S. adults think AI will have a positive impact on the U.S. in the next 20 years. So it’s about striking the right balance of not alienating a general audience, many of whom may have never used AI."
+Sean Muller, founder and CEO of TV ad-measurement company iSpot, said OpenAI has been using commercials to build awareness of ChatGPT, which they position as a tool for everyday life. Its most recent commercial features a trio of runners encouraging each other to keep going despite the cold. It concludes with scrolling text of ChatGPT's answer to the question, "How do I make sure I don't quit running?" -- a response that includes running with friends for accountability.
+"It wasn’t an ad that people liked," said Muller, adding that OpenAI "is still trying to find its way with storytelling and narrative."
+The Anthropic ad also evoked negative reactions in consumer testing, according to a spokesman for the ad-measurement firm.
+Reporting by Dawn Chmielewski in Los Angeles, and Deepa Seetharaman and Max Cherney in San Francisco; Editing by Matthew Lewis.

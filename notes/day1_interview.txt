@@ -1,0 +1,24 @@
+1. What is an LLM API?
+
+An LLM API allows developers to programmatically interact with a Large Language Model by sending input prompts and receiving generated responses. 
+It enables integration of language models into applications such as chatbots, automation systems, and AI agents without needing to train the model.
+
+2. Difference between ChatGPT UI and API?
+
+ChatGPT UI is a user interface for interacting with the model manually, while the API allows developers to integrate the model into software applications. 
+The API supports structured prompts, automation, memory handling, and system-level instructions, making it suitable for building production systems like RAG pipelines and AI agents.
+
+3. What is RAG?
+
+RAG (Retrieval-Augmented Generation) is a technique where relevant information is retrieved from an external knowledge source using embeddings and vector search, and then provided as context to the LLM before generating a response. 
+This improves accuracy and enables the model to answer using domain-specific or private data.
+
+4. Why embeddings are used?
+
+Embeddings convert text into numerical vectors that capture semantic meaning. 
+They allow similarity search based on meaning rather than exact word matching, which helps retrieve relevant information even when the wording is different.
+
+5. What is a vector database?
+
+A vector database stores embeddings and supports fast similarity search operations such as nearest neighbor search. 
+It is used in RAG systems to efficiently retrieve the most relevant document chunks based on semantic similarity to a query. Examples include FAISS, Pinecone, and Chroma.
