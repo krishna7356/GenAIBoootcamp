@@ -1,0 +1,91 @@
+Company Overview
+ABC Tech Solutions is a mid-sized IT services company providing software development, cloud solutions, and managed IT services to enterprise clients. The company operates under strict compliance, security, and operational guidelines to ensure service reliability and employee accountability.
+
+1. Company Policies
+
+All employees must adhere to company policies to maintain a professional, secure, and productive workplace.
+
+Working Hours Policy:
+Employees are required to work from 9:00 AM to 6:00 PM, Monday through Friday. Any deviation from these hours must be approved by the reporting manager. Remote work is permitted only with prior approval and must follow the same attendance and productivity standards.
+
+Code of Conduct:
+Employees must behave professionally with colleagues, clients, and vendors. Harassment, discrimination, or abusive language will not be tolerated. Confidential company and client information must not be shared with unauthorized individuals.
+
+Information Security Policy:
+All company systems must be accessed only through authorized devices. Passwords must be changed every 90 days and must meet complexity requirements. Employees must not install unauthorized software on company machines. Data must be stored only on approved company servers or cloud storage.
+
+Leave Policy:
+Employees are entitled to 18 annual paid leaves and 10 sick leaves per year. Leave requests must be submitted at least 3 days in advance, except in emergencies. Any leave without approval may result in salary deduction.
+
+2. IT Standard Operating Procedures (IT SOP)
+
+The IT department is responsible for maintaining system uptime, security, and performance.
+
+System Access Management:
+New employees must raise a ticket to request system access. The IT admin verifies the request and assigns appropriate permissions based on job role. Access to critical systems such as production servers requires manager approval.
+
+Backup Procedure:
+Daily incremental backups are taken at 2:00 AM and weekly full backups are taken every Sunday. Backup logs must be reviewed daily. Any failure must be reported immediately to the IT Manager.
+
+Incident Management:
+All IT incidents must be logged in the ticketing system. Incidents are categorized as Low, Medium, High, or Critical based on business impact. Critical incidents must be escalated within 15 minutes.
+
+Patch Management:
+Security patches are applied monthly. Emergency patches are applied within 24 hours for high-risk vulnerabilities. All patch activities must be documented.
+
+3. HR Rules
+
+The HR department ensures compliance with employment laws and internal regulations.
+
+Recruitment Policy:
+All hiring must follow a structured interview process. Background verification is mandatory before onboarding. Offer letters are issued only after final HR approval.
+
+Attendance Policy:
+Employees must log attendance daily through the HR portal. More than three late arrivals in a month will be recorded as a policy violation.
+
+Performance Evaluation:
+Performance appraisals are conducted annually. Employees are evaluated based on technical skills, teamwork, and goal achievement. Promotions are based on performance ratings and business requirements.
+
+Disciplinary Action:
+Violation of company policies may lead to verbal warning, written warning, or termination depending on severity.
+
+4. Alert Handling Steps
+
+The company uses monitoring systems to detect infrastructure and application issues.
+
+Alert Classification:
+Alerts are classified as Informational, Warning, or Critical.
+
+Response Procedure:
+When an alert is triggered, the on-call engineer must acknowledge it within 10 minutes. The engineer investigates logs, metrics, and system health to identify root cause.
+
+Escalation Process:
+If the issue is not resolved within 30 minutes, it must be escalated to the Team Lead. If business impact is high, the incident must be escalated to the Operations Manager.
+
+Post-Incident Review:
+After resolution, a root cause analysis (RCA) report must be prepared within 48 hours. Preventive measures must be documented.
+
+5. Business Operations and Compliance
+
+Client Communication:
+All client communications must be professional and documented. Important decisions must be confirmed via email. Verbal commitments are not considered official unless documented.
+
+Data Privacy Compliance:
+The company follows data protection regulations and ensures customer data is encrypted at rest and in transit. Access to customer data is restricted to authorized personnel only.
+
+Change Management:
+Any change to production systems must go through a change request process. The request must include impact analysis, rollback plan, and testing evidence.
+
+Training and Development:
+Employees must complete mandatory training on security, ethics, and technical skills every year.
+
+6. Financial and Asset Management
+
+Expense Policy:
+All expenses must be approved by the reporting manager. Original receipts must be submitted within 7 days of expense.
+
+Asset Usage:
+Company laptops and phones are for official use only. Any damage or loss must be reported immediately.
+
+Conclusion
+ABC Tech Solutions aims to maintain high standards of professionalism, security, and operational excellence. All employees are responsible for understanding and following these policies to ensure smooth business operations and client satisfaction.
