@@ -1,0 +1,149 @@
+DAY 2 – INTERVIEW NOTES
+Topic: Retrieval Augmented Generation (RAG)
+-------------------------------------------
+
+1. What did I build?
+
+I built a RAG-based question answering system that answers company policy and IT SOP questions using internal documents.
+It uses OpenAI embeddings for semantic search and FAISS for vector storage.
+
+Pipeline:
+Document → Chunking → Embedding → Vector DB → Retrieval → LLM Answer
+
+---
+
+2. What is RAG?
+
+RAG (Retrieval Augmented Generation) is a technique where relevant data is retrieved from an external knowledge base and provided as context to an LLM before generating a response.
+
+Purpose of RAG:
+
+* LLMs do not know private or internal company data
+* Reduces hallucination
+* Allows dynamic updates without retraining
+
+---
+
+3. Why Chunking?
+
+Chunking breaks large documents into smaller meaningful parts so they can be embedded and retrieved efficiently.
+
+Benefits:
+
+* Avoids token overflow
+* Improves retrieval relevance
+* Reduces noise
+* Improves generation quality
+
+Chunk strategy used:
+
+* Word-based chunking
+* Size: 150–250 words
+* Overlap: 20–30 words
+
+---
+
+4. Why Embeddings?
+
+Embeddings convert text into numerical vectors that capture semantic meaning instead of exact keyword matching.
+
+Advantages:
+
+* Semantic similarity search
+* Meaning-based matching
+* Better than keyword search
+* Improves contextual understanding
+
+---
+
+5. Why FAISS?
+
+FAISS is a vector similarity search library optimized for fast nearest-neighbor search on high-dimensional vectors.
+
+Reasons for using FAISS:
+
+* Fast retrieval
+* Open-source
+* Works locally
+* Supports cosine similarity and inner product
+
+---
+
+6. How does retrieval work?
+
+Steps:
+
+1. Convert user query into embedding
+2. Compare query vector with document vectors
+3. Retrieve top-k most similar chunks
+4. Pass retrieved chunks as context to LLM
+
+---
+
+7. How do you reduce hallucination?
+
+Methods:
+
+* Use RAG grounding
+* System prompt: "Answer only using the provided context"
+* Do not allow external guessing
+* Limit response to retrieved data
+
+---
+
+8. Difference between RAG and Fine-Tuning?
+
+RAG:
+
+* Injects knowledge dynamically
+* Easy to update
+* No model retraining
+* Best for private/internal data
+
+Fine-Tuning:
+
+* Changes model weights
+* Expensive
+* Requires retraining
+* Best for style or formatting
+
+---
+
+9. What if answer is not found?
+
+If similarity score is low:
+
+* Return "No relevant information found"
+* Escalate to human
+* Log query for future knowledge addition
+
+---
+
+10. How would you scale this system?
+
+Scaling approaches:
+
+* Replace FAISS with Pinecone or Weaviate
+* Batch embedding creation
+* Add caching
+* Use async API calls
+* Store metadata
+* Add document versioning
+
+---
+
+11. Tools and Technologies Used
+
+* Python
+* OpenAI API
+* FAISS
+* Numpy
+* dotenv
+
+---
+
+12. Sample Interview Answer
+
+"I implemented a Retrieval Augmented Generation system that answers internal policy and SOP questions. Documents are chunked with overlap, embedded using OpenAI embeddings, stored in FAISS, and retrieved using semantic similarity. The retrieved chunks are passed to the LLM as context to generate grounded answers and reduce hallucination."
+
+---
